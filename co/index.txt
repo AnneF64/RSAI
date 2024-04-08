@@ -1,0 +1,541 @@
+{"I":"co/4aechec-_videos.html","N":"co/4d-Les_signes_de_detresse_respiratoire.html","j":"co/10__Apres_la_prise_de_ventoline.html","h":"co/8-Hyperthermie.html","C":"co/qcu-_Nombre_de_respiration.html","v":"co/TAT_respiration.html","u":"co/10__Apres_la_prise_de_ventoline_1.html","e":"co/4-Quizz_les_pathologies.html","l":"co/2a_salle_de_change.html","z":"co/5a-activiteapprentissage.html","n":"co/3a-activiteapprentissage.html","K":"co/4b-Frequence_respiratoire_1.html","x":"co/grainlavage_de_nez.html","y":"co/4-Quizz_les_pathologies_2.html","c":"co/1B-Bras.html","D":"co/6b-medicaments.html","s":"co/8-Hyperthermie_1.html","i":"co/9-Ventoline.html","t":"co/9-Ventoline_1.html","k":"co/2b_cuisine.html","a":"co/1Etapeaccueil.html","b":"co/1Atransmissions.html","E":"co/7-PAI_2.html","m":"co/2c_jouer.html","f":"co/6a-medicaments.html","p":"co/5-asthme_1.html","L":"co/4cechec-Protocole_detresse_respiratoire.html","q":"co/6a-medicaments_1.html","A":"co/qcm_signes_detresse_respi.html","M":"co/4c-Protocole_detresse_respiratoire.html","J":"co/6b-medicaments_1.html","d":"co/2_depart_papa.html","r":"co/7-PAI_1.html","B":"co/qcm_asthme.html","F":"co/8-Hyperthermie_2.html","H":"co/4b-Frequence_respiratoire.html","w":"co/QCU_nez_coule.html","g":"co/7-PAI.html","G":"co/4a-_videos.html","o":"co/4-Quizz_les_pathologies_1.html"}
+["fullText"]
+{"wordPattern":"[^\\u0000-/:-@\\[-`{-\\u00A0]+(?:[-][^\\u0000-/:-@\\[-`{-\\u00A0]+)?|\\d+(?:[,.]\\d+)?","filters":[{"type":"excludeShortWords","forWords":"\\d+","min":1},{"type":"excludeShortWords","forWords":"\\D+","min":3},{"type":"cutLongWords","max":20},{"type":"lowerCase"},{"type":"ignoreWords","words":{"notre":1,"vont":1,"fait":1,"avoir":1,"mon":1,"être":1,"des":1,"mot":1,"sont":1,"les":1,"avant":1,"vous":1,"peu":1,"il":1,"tes":1,"dans":1,"nous":1,"tandis":1,"au":1,"tellement":1,"moins":1,"force":1,"je":1,"même":1,"droite":1,"dos":1,"sien":1,"parole":1,"sa":1,"elle":1,"ces":1,"sur":1,"ton":1,"si":1,"ça":1,"quand":1,"encore":1,"mine":1,"peut":1,"ses":1,"dedans":1,"ce":1,"ci":1,"quelles":1,"quels":1,"haut":1,"où":1,"alors":1,"tout":1,"ta":1,"tous":1,"chaque":1,"la":1,"état":1,"cela":1,"le":1,"sujet":1,"autre":1,"comme":1,"font":1,"tu":1,"fois":1,"est":1,"nouveaux":1,"mais":1,"ici":1,"tels":1,"nommés":1,"du":1,"maintenant":1,"son":1,"ma":1,"depuis":1,"soyez":1,"parce":1,"été":1,"par":1,"seulement":1,"voie":1,"pas":1,"pourquoi":1,"sans":1,"essai":1,"en":1,"ceux":1,"donc":1,"et":1,"début":1,"eu":1,"ils":1,"voient":1,"hors":1,"ni":1,"étions":1,"avec":1,"très":1,"vu":1,"bon":1,"que":1,"faites":1,"qui":1,"plupart":1,"deux":1,"aucuns":1,"sous":1,"elles":1,"devrait":1,"car":1,"aussi":1,"doit":1,"mes":1,"leur":1,"valeur":1,"ou":1,"pour":1,"trop":1,"pièce":1,"dehors":1,"là":1,"juste":1,"quelle":1,"comment":1,"personnes":1,"votre":1,"quel":1,"étaient":1}},{"type":"filterAccentedLatinLetters"}]}
+demblee	g.1
+faire	v.1	C.1
+gonfle	v.1
+rupture	k.1
+savez	p.1	z.2	A.1	B.1	C.1
+remettez	x.1
+produit	C.2
+courant	b.1
+0	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+1	b.1	v.1	B.2	C.2
+2	g.2	v.2
+3	v.1
+4	a.1	c.1	d.1	e.1	g.2	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+5	C.1
+6	a.1	v.1
+quitter	g.1
+refrigerateur	k.2
+samu	g.1	L.1	M.1
+elevee	B.1
+aupres	g.1	m.1
+heavynode	p.1
+cet	g.1
+prevenir	g.2	L.1	M.1
+generalisee	L.1	M.1
+seul	B.1
+differents	B.1
+realisees	C.1
+expnode	a.1	b.1	c.1	d.1	k.1	l.1	m.1	G.1	I.1	L.1	M.1	N.1
+lheure	g.1
+creche	a.1
+cardiaque	B.1
+inhalation	C.2
+licenses	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+veuillez	B.1	G.4	I.4	N.1
+noter	g.1	L.1	M.1
+notes	a.1	b.1	c.1	d.1	e.1	f.1	g.1	h.1	i.1	j.1	k.1	l.1	m.1	n.1	o.1	p.1	q.1	r.1	s.1	t.1	u.1	v.1	w.1	x.1	y.1	z.1	A.1	B.1	C.1	D.1	E.1	F.1	G.1	H.1	I.1	J.1	K.1	L.1	M.1	N.1
+accompagne	a.1
+ecouter	b.1	B.1
+protocole	g.2	x.1	L.3	M.3
+reveil	b.1
+mouvements	v.1
+dessus	A.1
+rel	a.2	c.2	d.2	e.2	g.1	h.2	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.6
+pai	g.3	L.1	M.1
+mieux	B.1
+ladministration	g.1
+risque	C.1
+froid	k.1
+volume	C.1
+sang	v.1
+boite	k.1
+faut	C.1
+http	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+cellules	v.1
+essuyer	w.1
+reveille	b.1
+pharmaciedelarotonde	C.1
+majeurs	A.1
+fermees	k.1
+narines	A.1
+vos	c.1
+surveillance	L.1	M.1
+assmntnode	e.1	f.1	g.1	h.1	i.1	j.1	o.1	q.1	r.1	s.1	t.1	u.1	y.1	D.1	E.1	F.1	H.1	J.1	K.1
+auxiliaire	a.1
+activer	B.1	G.4	I.4	N.1
+pdf	x.2
+ressource	B.2	G.8	I.8	N.2
+recharger	B.1	G.4	I.4	N.1
+diaphragme	v.2
+focus	L.1	M.1
+bravo	A.1	B.2
+rien	w.1
+professionnelle	c.1
+t-il	b.1
+chambre	g.1	C.2
+jeux	m.1
+battement	A.1	L.1	M.1
+gonfler	A.1
+aliments	k.1
+graves	g.2
+savoir	G.1	I.1
+expulsion	v.1
+disent	B.1
+entrer	v.1
+manifeste	B.1	L.1	M.1
+air	v.3
+ait	C.1
+immediatement	L.1	M.1
+extremites	L.1	M.1
+fenetre	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+question	B.1
+intenses	L.1	M.1
+ailes	A.1	L.1	M.1
+mouvement	A.1
+com	a.1	c.1	d.1	e.1	h.1	N.3
+mesoigner	C.1
+referer	L.1	M.1
+hyperthermique	h.1
+systematique	B.1
+cou	A.1
+alentours	v.1
+detresse	p.2	z.3	A.4	B.1	C.1	L.3	M.3	N.1
+temps	B.1
+mettre	g.1	k.1	L.1	M.1
+cotes	A.1
+cage	v.1	A.1
+voit	A.1
+voir	A.1
+8h30	a.1
+secretions	w.1
+nez	b.2	n.2	v.2	w.5	x.4	A.1	L.1	M.1
+apophyse	A.1
+hyperthermie	h.1
+bouchee	B.1
+alt	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+favorisant	v.1
+etes	a.1	B.1	C.1	G.4	I.4	N.1
+oxygene	v.2
+pointe	A.1
+inspirations	C.1
+abdomen	A.1
+media	B.1	G.4	I.4	N.1
+autres	m.1
+repondez	n.2	v.1	w.1	x.1
+rendez	b.1
+persistante	g.1
+design	a.1	c.1	d.1	e.1	h.1
+difficultes	g.1
+fievre	b.1
+rhinorrhee	w.1
+ans	v.2
+minute	v.2
+forme	A.1
+bleues	g.1
+incessante	L.1	M.1
+cernes	L.1	M.1
+conseils	C.1
+sifflement	L.1	M.1
+contracte	v.1
+karaki	a.1	c.1	d.1	h.1
+completez	v.1
+exercices	n.2	v.1	w.1	x.1
+directe	L.1	M.1
+thorax	L.1	M.1
+demandez	b.1
+compter	C.1
+by-sa	N.6
+medecin	b.1
+biberon	b.1
+png	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+respiratoire	g.2	p.2	v.5	z.3	A.4	B.1	C.1	L.7	M.7	N.2
+prendrai	b.1
+essuie	w.1
+fonctionner	v.1
+moment	m.1
+generee	l.1
+lavage	n.1	w.1	x.3
+toux	g.1	B.5	L.2	M.2
+txt	a.1	c.1	d.1	e.1	h.1	N.3
+jouer	m.1
+quintes	B.1
+mois	a.1	v.1
+lic	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+deposer	k.1
+prendre	c.1
+anne	g.1	L.1	M.1
+surveiller	g.1
+yeux	L.1	M.1
+pris	b.2
+bronchiolite	L.1	M.1	N.1
+soins	x.1
+jeu	m.1
+inter-costal	A.1
+nourrisson	e.1
+dinhalation	g.1
+tachycardie	B.2	L.1	M.1
+difficulte	B.2	L.1	M.1
+criteres	L.1	M.1
+agitation	g.1	L.1	M.1
+souvent	B.1
+pluverisez	C.1
+pathologies	e.1	G.1	I.1
+hidden	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+aux	v.1
+luttes	L.1	M.1
+physique	B.1
+impossible	B.1	G.4	I.4	N.1
+effort	B.1
+video	B.4	G.4	I.4	N.1
+quoi	B.1
+non	b.1	B.2	C.1
+lave	b.1
+attendu	w.1	A.1	B.1	C.1
+travaillez	a.1
+target	a.2	c.2	d.2	e.2	g.1	h.2	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.6
+poumons	v.2
+bambin	m.1
+geignement	A.1	L.1	M.1
+priorite	k.1
+chambre-dinhalation	C.1
+demi-assise	L.1	M.1
+bien	b.2	l.1	C.1
+identifier	A.1	B.1
+gene	g.1	N.1
+dates	k.1
+chiffres	v.1
+bouffees	g.3
+differentes	v.1	x.1	B.1	G.1	I.1
+consultation	L.1	M.1
+beneficie	L.1	M.1
+infection	B.1
+expiratoire	A.2	L.1	M.1
+hesitez	b.1
+deventuels	g.1
+bronchospasme	B.1
+medicaments	g.1
+grasse	B.2
+parfois	B.1
+nouvelle	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+adultes	m.1
+peux	A.1
+by-nd	d.2	B.6
+levres	g.1	L.1	M.1
+conduite	g.3	L.1	M.1
+permettant	A.1
+suffisant	w.1	C.1
+garder	L.1	M.1
+ropars	N.3
+by-nc	a.2	c.2	g.2	k.2	l.2	m.2	v.2	w.2	x.4	G.6	I.6	L.2	M.2
+width	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+ecran	B.1	G.4	I.4	N.1
+small	a.2	c.2	d.2	e.2	g.2	h.2	k.2	l.2	m.2	v.2	w.2	x.4	B.6	C.2	G.6	I.6	L.2	M.2	N.6
+totalite	C.1
+bout	g.2
+cycles	v.2
+bruit	A.1
+mots	v.2
+ainsi	v.1
+papa	a.2	b.3
+seule	C.1
+apporter	v.1
+visible	A.1
+minutes	g.3	v.1
+ressortir	v.1
+pause	g.1	B.1	G.4	I.4	L.2	M.2	N.1
+corps	v.1
+reponse	w.1	A.1	B.1	C.1
+correction	v.1	w.1	A.1	B.1	C.1
+allergique	L.2	M.2
+traitement	C.2
+malade	e.1
+persistance	g.1
+inspiration	v.4	A.1
+rester	g.1
+sac	g.1
+duree	C.1
+initiales	N.6
+respire	C.1
+typique	B.1
+paleur	L.2	M.2
+dirigez	c.1
+chez	b.1	A.1	G.1	I.1	N.1
+sifflante	B.3	L.1	M.1
+liberer	L.1	M.1
+petite	B.1
+accueillez	a.1
+lui	b.1	C.1
+angine	B.1	G.1	I.1
+quelques	n.2	v.1	w.1	x.1	B.1
+crise	B.1	L.1	M.1
+symptome	B.1
+balancement	A.1	L.1	M.1
+entonnoir	A.1
+sameliore	g.1
+fond	m.1
+surs	C.1
+pulverisation	C.2
+faites-vous	w.1
+etiquetees	k.1
+maitrises	B.1
+beneficier	C.1
+survenir	B.1
+eveil	c.1
+accueillant	c.1
+certainement	w.1
+hesitation	d.1
+eviter	k.1
+acceder	B.2	G.8	I.8	N.2
+obstruction	L.2	M.2
+calme	g.1	L.1	M.1
+regarder	B.1
+relache	v.1
+vite	b.1
+557-comment	C.1
+dyspnee	B.3	L.1	M.1
+materiel	l.1
+paul	a.2	b.2	c.3	g.2	h.1	k.1	l.1	w.2
+observe	k.1
+partage	N.6
+combien	p.1	z.1	C.2
+paternite	a.2	c.2	d.2	e.2	g.2	h.2	k.2	l.2	m.2	v.2	w.2	x.4	B.6	G.6	I.6	L.2	M.2	N.6
+tenir	g.3	L.1	M.1
+info	B.3
+pulverisations	C.1
+image	l.1
+etapes	x.1
+matin	a.2	b.1
+bras	c.2	k.1
+tirage	A.3	L.2	M.2
+manque	A.1
+infantiles	G.1	I.1
+expiration	v.4	A.1	L.1	M.1
+blank	a.2	c.2	d.2	e.2	g.1	h.2	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.6
+tient	m.1
+tiens	b.1
+physiologie	n.1	v.1
+title	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+pendant	g.1
+sus-sternal	A.1
+toutes	g.1
+deed	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+respirer	g.1	B.1	C.1
+obligatoirement	g.1
+choc	L.1	M.1
+trouble	g.1	L.2	M.2
+class	a.4	c.4	d.4	e.4	g.3	h.4	k.3	l.3	m.3	v.3	w.3	x.6	B.9	C.1	G.9	I.9	L.3	M.3	N.9
+utilisation	a.2	c.2	g.2	k.2	l.2	m.2	v.2	w.2	x.4	G.6	I.6	L.2	M.2
+une	k.2	m.1	v.1	A.2	B.9	C.2	L.2	M.2
+lenfant	g.5	G.1	I.1
+xyphoidien	A.1
+adresse	B.1	G.4	I.4	N.1
+nuit	b.2	B.1
+vers	c.1
+nouveau	B.1
+majorite	B.1
+rassurer	g.1
+commerciale	a.2	c.2	g.2	k.2	l.2	m.2	v.2	w.2	x.4	G.6	I.6	L.2	M.2
+https	a.1	c.1	d.1	e.1	h.1	C.1	N.3
+signes	g.5	p.1	z.1	A.2	B.4	L.2	M.2	N.1
+susternal	L.1	M.1
+dysphagie	B.2
+sifflements	g.1
+frais	k.1
+realiser	L.1	M.1
+conseille	B.1
+autorise	B.1	G.4	I.4	N.1
+remonte	v.1
+respiratoires	v.1
+selon	g.1
+ci-dessous	l.1
+skin	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+sequences	x.1
+cycle	v.1
+desactiver	B.1	G.4	I.4	N.1
+aura	C.1
+yuji	a.1	c.1	d.1	h.1
+coule	n.1	w.2
+strenum	A.3
+change	l.3	w.1
+somnolence	L.1	M.1
+intercostal	L.1	M.1
+polypnee	g.1	L.2	M.2
+acces	B.1	G.4	I.4	N.1
+boites	k.1
+placer	k.1
+constituee	v.1
+renouveler	g.2
+mytho	B.3
+exercice	n.2	p.3	z.3
+enfant	v.1	A.1	C.3	L.3	M.3	N.1
+appeler	b.1	g.1
+conscience	g.1	L.2	M.2
+plutot	B.1
+chaud	b.1
+main	m.1
+survient	B.1
+sol	m.1
+www	a.1	c.1	d.1	e.1	h.1	N.3
+enfants	m.2
+entre	v.3
+disponible	l.1	B.1	G.4	I.4	N.1
+drp	L.1	M.1
+medicale	L.1	M.1
+plus	B.1	G.5	I.5	N.1
+paraitre	C.1
+letat	g.1
+license	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+prenez	c.1	g.1	B.1
+position	L.1	M.1
+present	C.1
+informations	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.1	B.1	C.1	G.1	I.1	L.1	M.1	N.1
+parents	g.2	L.2	M.2
+daggravation	g.1
+nasales	w.1
+nombre	v.1	C.2
+total	g.1
+utiliser	v.1
+cc-button	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+puis	B.1	G.4	I.4	L.1	M.1	N.1
+thoraco-abdominal	A.1	L.1	M.1
+src	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+inspiratoire	A.1
+cyanose	L.2	M.2
+moyenne	v.1
+observer	A.1	C.1	L.1	M.1
+112	g.1
+paniere	l.1
+respirations	p.1	z.1	C.4
+observez	l.1
+height	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+10	g.1	C.1
+15	a.1	c.1	d.1	e.1	g.4	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.2	M.2	N.3
+spray	g.2
+edit	a.1	c.1	d.1	e.1	h.1
+installez	m.1
+asthme	p.3	z.3	A.1	B.9	C.1	L.2	M.2	N.1
+exemple	B.1
+installer	L.1	M.1
+conditions	N.6
+20	v.1
+virale	B.1
+11h	w.1
+long	C.1
+sur	b.1
+connaissance	g.1
+repondre	B.1
+min	g.1	C.1
+lecture	B.1	G.4	I.4	N.1
+audio	B.1	G.4	I.4	N.1
+30	g.1	v.2
+accueil	a.1	k.1
+reaction	L.1	M.1
+exacte	C.1
+doutes	B.1
+pepermpron	e.1
+profondes	C.1
+40	v.1
+45	g.1
+ordre	x.1
+150	b.1
+identique	N.6
+sueurs	g.1	L.1	M.1
+transmissions	b.2
+maladies	G.1	I.1
+plein	B.1	G.4	I.4	N.1
+jour	B.1
+infections	G.1	I.1
+frequence	v.4	B.1
+tapis	c.1
+abaisse	v.1
+urgence	g.1	L.1	M.1
+quizz	B.1
+modification	a.2	c.2	d.2	g.2	k.2	l.2	m.2	v.2	w.2	x.4	B.6	G.6	I.6	L.2	M.2
+fabre	g.1	L.1	M.1
+appelle	A.1
+contexte	L.1	M.1
+manquants	v.1
+langer	g.1
+enrhume	b.1
+definition	G.1	I.1
+semble	b.2
+lieu	g.1
+attendus	v.1
+aeriennes	L.1	M.1
+org	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+assis	g.1	m.2
+orl	G.1	I.1
+180	b.1
+daf-0pzwdbu	a.1	c.1	d.1	e.1	h.1
+80	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+rapide	L.1	M.1
+choix	w.2	A.2	B.2	C.2
+base	A.1
+trouve	A.1	B.1
+appel	g.3	L.1	M.1
+hautes	G.1	I.1
+extrait	g.2
+respiration	g.1	n.1	v.3	B.4	C.3	L.2	M.2
+jeff	N.3
+huydxjaz2vphhzhuiv1p	a.1	c.1	d.1	e.1	h.1
+chaine	k.1
+contenant	k.1
+href	a.2	c.2	d.2	e.2	g.1	h.2	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.6
+recommencer	v.1	w.1	A.1	B.1	C.1
+jeffbelleile	N.3
+noopener	a.1	c.1	d.1	e.1	h.1	N.3
+utiliser-une	C.1
+lors	g.1	A.2	B.2
+fosses	w.1
+creativecommons	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	G.3	I.3	L.1	M.1	N.3
+oui	b.1	A.1	B.3	C.1
+rhinopharyngite	L.1	M.1
+creux	A.1
+salle	l.2	w.1
+devetir	L.1	M.1
+degage	w.1
+redonner	g.1
+puericulture	a.1
+puissent	v.1
+assez	B.1
+emmene	w.1
+permet	v.2
+span	a.6	c.6	d.6	e.6	g.4	h.6	k.4	l.4	m.4	v.2	w.4	x.4	B.9	C.2	G.9	I.9	L.4	M.4	N.9
+xyphoide	A.1
+voici	v.1
+avez	A.1
+seche	B.2
+avons	b.1
+audibles	g.1
+thoracique	v.1	A.1
+apres	k.1	B.1	C.3
+administrer	g.1
+allez	k.1	l.1
+stockage	g.1
+doivent	C.1
+doctissimo	G.3	I.3
+epaisses	w.1
+youtube	N.3
+img	a.2	c.2	d.2	e.2	g.2	h.2	k.2	l.2	m.2	v.2	w.2	x.4	B.6	G.6	I.6	L.2	M.2	N.6
+voies	L.1	M.1
+cas	g.3	B.1
+balle	m.1
+contre	b.1
+canva	a.2	c.2	d.2	e.2	h.2	k.1	l.1	m.1	w.1
+entrain	k.1
+ventoline	g.3
+mouchoir	w.2
+cette	b.1	B.1
+inverse	A.1
+lentes	C.1
+legalinfo	a.1	c.1	d.1	e.1	g.1	h.1	k.1	l.1	m.1	v.1	w.1	x.2	B.3	C.1	G.3	I.3	L.1	M.1	N.3
+cuisine	k.3
+paille	B.1
+rendormi	b.1
+verifier	l.1	B.1	G.4	I.4	N.1
+alimentaire	L.1	M.1
+repas	k.2
+avaler	B.1
